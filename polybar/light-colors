@@ -1,0 +1,15 @@
+; vim:ft=dosini
+
+[colors]
+background = #1D282828
+buffer = #3c3836
+foreground = #ebdbb2
+nord6 = #fbf1c7
+nord7 = #8ec07c
+nord8 = #83a598
+nord9 = #458588
+urgent = #fb4934
+warning = #fe8019
+notify = #fabd2f
+success = #b8bb26
+function = #d3869b
